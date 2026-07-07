@@ -1,0 +1,9 @@
+SKU,Nome_Prodotto,Categoria,Giacenza_Attuale,Domanda_Annuale,Costo_Unitario,Costo_Ordine,Tasso_Mantenimento,Lead_Time_Giorni,Fornitore,Email_Fornitore,Scorta_Sicurezza
+SKU001,Scheda Madre X100,Elettronica,45,1200,85.50,25.00,0.15,14,TechComponents Srl,ordini@techcomponents.it,50
+SKU002,Alimentatore 750W,Elettronica,12,850,45.00,15.00,0.20,7,PowerSupply Co.,sales@powersupply.com,30
+SKU003,Case ATX Mid Tower,Hardware,150,3000,35.00,40.00,0.10,21,MetalPlast,logistica@metalplast.it,100
+SKU004,Ventola 120mm RGB,Accessori,5,5000,8.00,10.00,0.25,5,Cooling System Inc.,orders@coolingsystem.com,200
+SKU005,RAM 16GB DDR4,Elettronica,18,2400,60.00,20.00,0.15,10,TechComponents Srl,ordini@techcomponents.it,60
+SKU006,SSD 1TB NVMe,Elettronica,8,1500,75.00,18.00,0.15,12,FastStorage Ltd,b2b@faststorage.com,40
+SKU007,Tastiera Meccanica,Periferiche,32,600,55.00,22.00,0.12,15,OfficeTech,ordini@officetech.it,25
+SKU008,Mouse Wireless,Periferiche,80,1800,15.00,12.00,0.12,10,OfficeTech,ordini@officetech.it,50
